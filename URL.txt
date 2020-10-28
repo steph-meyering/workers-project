@@ -1,0 +1,5 @@
+Live URL:
+https://cloudflare-assignment.meyering.workers.dev/
+
+JSON API URL:
+https://cloudflare-assignment.meyering.workers.dev/links
