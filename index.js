@@ -1,6 +1,6 @@
 const staticUrl = 'https://static-links-page.signalnerve.workers.dev'
 const avatarUrl = 'https://media-exp1.licdn.com/dms/image/C5603AQHuRdi4MMKx1w/profile-displayphoto-shrink_400_400/0?e=1609372800&v=beta&t=55oEc036kx0xkebQ0SmthbSfiEFjVDRciyDqUfDwHKw'
-const bgUrl = 'https://lh3.googleusercontent.com/1xmKDtAXS1nz1fmWDMFWCXNxxZX2cYwskIxZ70a5a17gIO3h3PqM9P7JEhlvpX5xp2ZVm0DsxAeUOGQNM5N_D-psvfA4ROep_Lgun5mffq4FJg75yTMFPWxxMCz9BjvbU7eWeDLKBp6RTlCD-QmLtStVbiXXV4rcqX42gZ04h4LfZtPuLy4cB_nu8qNdJ-QivgMgSckStfu0XTeCYyyu32ijOcRfuzIW4ERRYrUhTsRAGwVPlRr8O3mbYxtcZPyl7FMOj6J6kpgqa7E3-pQtlnbHZMy_BjLuQ-V5aimDdduuoGbfz2hYAfT-0Cg2yCv_2F5ABsazVDgMNxVDZiPpSJJhjhZRBDgDHJwOVFgXQXeKeK1f8XaJCF4Qujh2RqaRHlh_dkXytuL3Vv3q0ny6IrPDRHd5BavQ-QHGJO7u-EwB7vGpjsaZRqk6-zf_oqlrxfVzgnYtsXPsOO3mc7MkdXgMCUtscXU478L2agco3AU0kJYtPpe9_uKbJZfpSRg7itsl7hUip8OJTx_ElS8O0IwjyDjeD6MynK5KiLT8DhDZ9oToQVtkTm03lYxnmrOxhsxmDfTpsPVGzjfEco5hP4zqCVOviqSG_iY58zi3956aMTDS4NNeGSwMaeQ4kJCkXH6upf7vaTQJkmaytRV1QnkINBw1y9gLZLX8KcNjZP8iTVNo2eA8c4rmlJ87wRs=w1896-h1422-no?authuser=0'
+const bgUrl = 'https://raw.githubusercontent.com/steph-meyering/portfolio/master/images/altbg.jpg'
 const links = [
   {
     name: 'Portfolio',
